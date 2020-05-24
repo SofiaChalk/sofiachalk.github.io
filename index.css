@@ -203,6 +203,18 @@ header table {
 .hvrbox.active .hvrbox-text_mobile {
 	display: block;
 }
+.btn{
+    transition: transform .2s;
+    background-color:transparent;
+    color:rgb(255,255,255);
+    border-radius: 30%;
+    border: none;
+}
+.btn:hover{
+    transform: scale(1.5);
+    cursor: pointer;
+    color:#fff;
+}
 #rightImage {
     width:100%;
     height:95vh;
