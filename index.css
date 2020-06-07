@@ -204,6 +204,9 @@ header table {
 	display: block;
 }
 .btn{
+    position: absolute;
+	top: 10%;
+	left: 10%;
     transition: transform .2s;
     background-color:transparent;
     color:rgb(255,255,255);
