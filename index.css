@@ -366,13 +366,13 @@ button:focus {
         font-size: 1.17vw;
     }
     .btn{position:absolute;
-      top:10%
-      left:10%}
+      top:1%
+      left:1%}
 }
 
 @media screen and (max-width: 768px) {
   .btn{position:absolute;
-      top:10%
-      left:10%}
+      top:1%
+      left:1%}
 
 }
